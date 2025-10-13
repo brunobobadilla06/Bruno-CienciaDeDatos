@@ -1,0 +1,11 @@
+﻿id_venta,fecha_venta,id_producto,nombre_producto,categoria_producto,cantidad,precio_unitario,total_venta,id_cliente,nombre_cliente
+1,2025-09-30,7,Teclado Mecánico,Electrónica,2,59.99,119.98,103,Carlos Díaz
+2,2025-09-29,3,Camiseta Deportiva,Ropa,4,19.99,79.96,110,Sofía Castro
+3,2025-09-25,6,Mochila Escolar,Accesorios,4,45.0,180.0,105,Pedro Sánchez
+4,2025-09-25,4,Botella de Agua 1L,Accesorios,4,8.75,35.0,106,Lucía Ramírez
+5,2025-09-18,1,Auriculares Bluetooth,Electrónica,5,25.99,129.95,101,Juan Pérez
+6,2025-10-02,7,Teclado Mecánico,Electrónica,5,59.99,299.95,104,Laura Fernández
+7,2025-10-05,2,Mouse Inalámbrico,Electrónica,4,15.5,62.0,104,Laura Fernández
+8,2025-09-14,6,Mochila Escolar,Accesorios,5,45.0,225.0,109,Diego Herrera
+9,2025-09-19,1,Auriculares Bluetooth,Electrónica,3,25.99,77.97,104,Laura Fernández
+10,2025-09-24,10,Gorra Deportiva,Accesorios,1,12.5,12.5,105,Pedro Sánchez
