@@ -1,0 +1,13 @@
+region,producto,mes,ventas,satisfaccion_cliente,costo_operativo
+Norte,Laptop,Enero,15000,8.5,7000
+Norte,Smartphone,Febrero,18000,8.7,8500
+Norte,Tablet,Marzo,13000,7.8,6000
+Sur,Laptop,Enero,16000,8.9,7500
+Sur,Smartphone,Febrero,19000,9.0,9000
+Sur,Tablet,Marzo,12000,7.5,5800
+Este,Laptop,Enero,14000,8.2,6800
+Este,Tablet,Febrero,13500,7.9,6500
+Oeste,Smartphone,Enero,17500,8.8,8200
+Oeste,Laptop,Febrero,20000,9.1,9500
+Oeste,Tablet,Marzo,15500,8.4,7200
+Oeste,Smartwatch,Enero,10000,7.6,5000
